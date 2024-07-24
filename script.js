@@ -3,62 +3,68 @@ const songs = [
     {
         title: "1. Apna Bana Le priya",
         artist: "Arijit singh",
-        src: "./Apna Bana Le_320(PagalWorld).mp3",
-        cover: "./Apna_Bana_le_Cover.jpeg"
+        src: "./songs/Apna Bana Le_320(PagalWorld).mp3",
+        cover: "./song cover/Apna_Bana_le_Cover.jpeg"
     },
     {
         title: "2. Tum Se",
         artist: "Raghav Chaitanya, Sachin–Jigar, and Varun Jain",
-        src: "./Tum Se_320(PagalWorld.com.sb).mp3",
-        cover: "./Tum_Se_cover.jpg"
+        src: "./songs/Tum Se_320(PagalWorld.com.sb).mp3",
+        cover: "./song cover/Tum_Se_cover.jpg"
     },
     {
         title: "3. Tera Fitoor",
         artist: "Arijit Singh",
-        src: "./Tera Fitoor Genius 320 Kbps.mp3",
-        cover: "./Tera_Fitoor_cover.jpg"
+        src: "./songs/Tera Fitoor Genius 320 Kbps.mp3",
+        cover: "./song cover/Tera_Fitoor_cover.jpg"
     },
     {
         title: "4. Aaoge Tum Kabhi",
         artist: "The Local Train",
-        src: "./Aaoge Tum Kabhi_320(PagalWorld.com.so).mp3",
-        cover: "./Aaoge_Tum_Kabhi_cover.jpeg"
+        src: "./songs/Aaoge Tum Kabhi_320(PagalWorld.com.so).mp3",
+        cover: "./song cover/Aaoge_Tum_Kabhi_cover.jpeg"
     },
     {
         title: "5. Eenie Meenie",
         artist: "Justin Bieber",
-        src: "./Justin-Bieber-Eenie-Meenie.mp3",
-        cover: "./Eenie_Meenie_cover.jpg"
+        src: "./songs/Justin-Bieber-Eenie-Meenie.mp3",
+        cover: "./song cover/Eenie_Meenie_cover.jpg"
     },
     {
         title: "6. Stay",
         artist: "Justin Bieber",
-        src: "./Stay(PagalNew.Com.Se).mp3",
-        cover: "./Stay_cover.jpg"
+        src: "./songs/Stay(PagalNew.Com.Se).mp3",
+        cover: "./song cover/Stay_cover.jpg"
     },
     {
         title: "7. Ami Sudhu Khujechi Amay",
         artist: "Taalpatar Shepai",
-        src: "./Ami-Sudhu-Khujechi-Amay-Taalpatar-Shepai.mp3",
-        cover: "./Ami_Sudhu_Khujechi_Amay_cover.jpeg"
+        src: "./songs/Ami-Sudhu-Khujechi-Amay-Taalpatar-Shepai.mp3",
+        cover: "./song cover/Ami_Sudhu_Khujechi_Amay_cover.jpeg"
     },
     {
         title: "8. Ureche Mon",
         artist: "Arijit Singh",
-        src: "./Ureche Mon Pureche Mon(Mr-Jatt1.com).mp3",
-        cover: "./Ureche_Mon_cover.jpg"
+        src: "./songs/Ureche Mon Pureche Mon(Mr-Jatt1.com).mp3",
+        cover: "./song cover/Ureche_Mon_cover.jpg"
     },
     {
         title: "9. I Love You",
         artist: "Ash King and Clinton Cerejo",
-        src: "./I Love You Bodyguard 320 Kbps.mp3",
-        cover: "./I_Love_You_cover.jpg"
+        src: "./songs/I Love You Bodyguard 320 Kbps.mp3",
+        cover: "./song cover/I_Love_You_cover.jpg"
     },
     {
         title: "10. Cheliya",
         artist: "Arijit Singh and Shilpa Rao",
-        src: "./Cheliya-(PagalWorld).mp3",
-        cover: "./Cheliya_cover.jpeg"
+        src: "./songs/Cheliya-(PagalWorld).mp3",
+        cover: "./song cover/Cheliya_cover.jpeg"
+    },
+    {
+        title: "11. Janib",
+        artist: "Arijit Singh, Sunidhi Chauhan, Jatinder Shah",
+        src: "./songs/Janib Duet Dilliwaali Zaalim Girlfriend 320 Kbps.mp3",
+        cover: "./song cover/Janib_cover.jpg"
     }
 ];
 
